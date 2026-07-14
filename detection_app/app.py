@@ -153,4 +153,4 @@ elif source_type == "Webcam":
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ using YOLOv8, OpenCV, and Streamlit")
+st.markdown("Built with ❤️ using YOLOv8, OpenCV, and Streamlit").
