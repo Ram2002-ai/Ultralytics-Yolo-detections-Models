@@ -8,8 +8,8 @@ from utils.detection_utils import DetectionUtils
 from utils.gym_utils import GymUtils
 
 # Page config
-st.set_page_config(page_title="YOLOv8 Deployment Suite", layout="wide")
-st.title("🚀 YOLOv8 Computer Vision Suite")
+st.set_page_config(page_title="VISIONX AI YOLO8 SUITE", layout="wide")
+st.title("🚀 VisionX AI")
 st.markdown("Object Detection | Counting | Segmentation | Pose | Customer Detection | AI Workout")
 
 # Sidebar for mode selection
